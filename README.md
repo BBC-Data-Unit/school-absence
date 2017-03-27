@@ -1,5 +1,7 @@
 # Term-time holidays: Where most children were absent
 
+![](http://ichef.bbci.co.uk/news/624/cpsprodpb/6394/production/_95329452_absencesmap.jpg)
+
 In March 2017 we [reported](http://www.bbc.co.uk/news/uk-england-39380529) on new government figures showing that term-time holidays accounted for a quarter of unauthorised absences from schools in England.
 
 # Get the data
