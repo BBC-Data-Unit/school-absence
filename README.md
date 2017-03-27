@@ -14,7 +14,7 @@ In March 2017 we [reported](http://www.bbc.co.uk/news/uk-england-39380529) on ne
 * Bar chart: Areas with biggest percentage rise in term-time holidays
 * Infographic: Unauthorised absences
 * Bar chart: Areas with holidays as the highest share of absence
-* [Interactive map: Unauthorised holiday sessions per pupil rates by region]()
+* [Interactive map: Unauthorised holiday sessions per pupil rates by region](https://public.tableau.com/profile/publish/Unauthorisedholidaysperpupilratesbyregion/Dashboard1#!/publish-confirm)
 
 # Sources quoted
 
