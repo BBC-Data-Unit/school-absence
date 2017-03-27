@@ -9,6 +9,7 @@ In March 2017 we [reported](http://www.bbc.co.uk/news/uk-england-39380529) on ne
 * Department for Education: [Pupil absence in schools in England: 2015 to 2016](https://www.gov.uk/government/statistics/pupil-absence-in-schools-in-england-2015-to-2016) - [Underlying data (zip)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/602371/SFR14_2017_Underlying_data.zip)
 * Subset and analysis: [2015-16 figures by local authority for all schools / average rates by region / regions with rates and local authorities](https://github.com/BBC-Data-Unit/school-absence/blob/master/unauthorisedabsences.xlsx)
 * Subset: [2015-16 absence figures by local authority for all schools (CSV)](https://github.com/BBC-Data-Unit/school-absence/blob/master/201516_absences_by_LA.csv) ([raw](https://raw.githubusercontent.com/BBC-Data-Unit/school-absence/master/201516_absences_by_LA.csv))
+* Subse: [2013-16 absence figures by local authority for all schools (CSV)](https://github.com/BBC-Data-Unit/school-absence/blob/master/201316_absences_by_LA.csv)
 
 
 # Visualisation and interactivity
